@@ -9,5 +9,5 @@ metadata:
   credit: ''
   image_alt: ''
 title: howler-monkey-Costa-Rica.jpg
-uid: cf842a08-880f-4d5a-b929-49477cb2bb44
+uid: 08a64781-5fb8-47e3-adae-394aecf6bafb
 ---
