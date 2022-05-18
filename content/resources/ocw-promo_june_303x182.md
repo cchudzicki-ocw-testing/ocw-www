@@ -9,5 +9,5 @@ metadata:
   image_alt: ''
 resourcetype: Image
 title: OCW promo_June_303x182.png
-uid: 587240f5-0016-4b83-92ed-696c09299eca
+uid: 2de07f6c-db96-4d6c-b990-724c176a86f5
 ---
