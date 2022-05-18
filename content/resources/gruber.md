@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-promo_june_303x182.png
+file: /ocw-www/gruber.jpg
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Image
-title: OCW promo_June_303x182.png
-uid: 587240f5-0016-4b83-92ed-696c09299eca
+title: gruber.jpg
+uid: 464bebf5-2d5c-46ce-89d4-4fde1a62c697
 ---

@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-promo_june_303x182.png
+file: /ocw-www/eralp.jpg
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Image
-title: OCW promo_June_303x182.png
-uid: 587240f5-0016-4b83-92ed-696c09299eca
+title: eralp.jpg
+uid: d0bd1ad4-5d40-46af-a2a3-2253d6fd144e
 ---

@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-promo_june_303x182.png
+file: /ocw-www/kyle_lee.jpg
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Image
-title: OCW promo_June_303x182.png
-uid: 587240f5-0016-4b83-92ed-696c09299eca
+title: kyle_lee.jpg
+uid: 26eaaf4b-6f1d-4458-a8ac-25416808fd10
 ---

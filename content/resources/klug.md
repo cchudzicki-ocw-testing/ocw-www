@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-promo_june_303x182.png
+file: /ocw-www/klug.jpg
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Image
-title: OCW promo_June_303x182.png
-uid: 587240f5-0016-4b83-92ed-696c09299eca
+title: klug.jpg
+uid: d14a2349-8f8b-4080-91c2-aa2b0be352d3
 ---

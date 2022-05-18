@@ -2,12 +2,12 @@
 content_type: resource
 description: ''
 draft: ''
-file: /ocw-www/ocw-promo_june_303x182.png
+file: /ocw-www/oll_screenshot.jpeg
 metadata:
   caption: ''
   credit: ''
   image_alt: ''
 resourcetype: Image
-title: OCW promo_June_303x182.png
-uid: 587240f5-0016-4b83-92ed-696c09299eca
+title: OLL_screenshot.jpeg
+uid: 5fb86598-754e-4dc9-8eeb-aa5a5181a8c2
 ---
