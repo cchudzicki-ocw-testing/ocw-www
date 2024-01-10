@@ -21,7 +21,6 @@ department_numbers:
 - '8'
 - '6'
 - '18'
-draft: true
 extra_course_numbers: '456'
 hide_download: false
 instructors:
